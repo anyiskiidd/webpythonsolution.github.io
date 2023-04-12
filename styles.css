@@ -1,0 +1,18 @@
+.typewriter-text {
+    font-family: monospace;
+    white-space: pre;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.review-container {
+    transition: transform 0.3s ease-in-out;
+}
+
+.review-container:hover {
+    transform: translateY(-10px);
+}
+
+.star-icon {
+    color: #f3ca0a;
+}
